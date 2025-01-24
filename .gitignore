@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+files/*
+!files/.gitkeep
+app/sample-output*.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+env
+venv
+app/files
+*.env
+.env*
+app/*.env
+.env*
+app/deprecated
+*.json
